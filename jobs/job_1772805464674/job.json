@@ -1,0 +1,42 @@
+{
+  "job_id": "job_1772805464674",
+  "created_at": "2026-03-06T13:59:07.890Z",
+  "format": "9:16",
+  "product_links": [
+    "https://vt.tiktok.com/ZS9dYm9RMSfKw-JdJVV/"
+  ],
+  "model_dna": [
+    "banana-ad-0m9x2dqa0.png",
+    "banana-ad-5nqukiqfe.png",
+    "banana-ad-7wbs9j9t8.png",
+    "banana-ad-cm4wwhqb4.png",
+    "banana-ad-g8ylsdcdt.png",
+    "banana-ad-prktfu3ts.png",
+    "banana-ad-sa6847oe1.png",
+    "banana-ad-uyqx5bn9q.png",
+    "banana-ad-z1iqvqz1m.png"
+  ],
+  "model_dna_cached": false,
+  "product_dna": [
+    "IMG_2787.png",
+    "IMG_2788.png",
+    "IMG_2789.png",
+    "IMG_2790.png",
+    "IMG_2791.png",
+    "IMG_2792.png",
+    "IMG_2793.png",
+    "IMG_2794.png"
+  ],
+  "sample_videos": [
+    "snaptik.vn_ajb7Z.mp4",
+    "snaptik.vn_BwMHk.mp4",
+    "snaptik.vn_Ed4Iy.mp4",
+    "snaptik.vn_lYHI6.mp4"
+  ],
+  "repo": {
+    "owner": "Phaxitech",
+    "repo": "nexus-outputs",
+    "branch": "main",
+    "job_path": "jobs/job_1772805464674"
+  }
+}
